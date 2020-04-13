@@ -1,0 +1,30 @@
+{
+  "id": "1648919",
+  "name": "iconPro",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "700844",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "2859359",
+      "name": "任务",
+      "font_class": "renwu",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "6997483",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
